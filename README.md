@@ -12,3 +12,5 @@
 ### Why Agent Army?
 
 Agent Army offers a novel approach to automating office work, leveraging the power of multiple agents that function like a cohesive team. In a landscape filled with solutions like Agent Force, Auto-GPT, AI Legion, and LangChain, Agent Army stands out by prioritizing simplicity, collaboration, and efficiency, making it an ideal choice for businesses looking to enhance their productivity without overcomplicating their workflows.
+
+![Army Directives](images/sample_roles.png)
